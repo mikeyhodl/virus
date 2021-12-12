@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f022826d-a4df-45a1-8d58-44ecaac0e8d8/deploy-status)](https://app.netlify.com/sites/peaceful-goldstine-8a5829/deploys)
+
 # COVID-19: Novel Coronavirus Infection Map
 
 This repository stores the source code for the Novel Coronavirus Infection Map (https://hgis.uw.edu/virus). This online interactive map enables users to track both the global and local trends of Novel Coronavirus infection since Jan 21st, 2020. The dataset is timely collected from multiple official sources and then plotted onto this map.
